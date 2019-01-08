@@ -3,7 +3,7 @@
 
 Hello and welcome to Introduction to the Google Maps JavaScript API course! My name is Robert Dickerson. In this course, we will start with the basics of getting the Google Maps set up, and getting a solid understanding of the JavaScript API. You learn how to interact and control the map, how to style it, use custom colors, add marker overlays withc ustom icons, handle mouse events when clicking on an icon, and create customized info windows that pop up when markers are clicked.
 
-Once you've mastered the basics, the lessons will start to build on each other in the creation of our course project. We'll be creating an interactive visualization of U.S. airport arrival and departure times with a number of techniques to enhance visualization, so users can quickly find the information of interest, and spot trends in the data. I've created a website for the final course project we will be building - you can check it out at [learnaboutmaps.com](http://learnaboutmaps.com).
+Once you've mastered the basics, the lessons will start to build on each other in the creation of our course project. We'll be creating an interactive visualization of U.S. airport arrival and departure times with a number of techniques to enhance visualization, so users can quickly find the information of interest, and spot trends in the data. I've created a website for the final course project we will be building - you can check it out at [learnaboutmaps.com](http://learnaboutmaps.com)
 
 # What is API
 
