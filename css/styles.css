@@ -47,7 +47,7 @@ html, body, #map {
 .row .location {
     margin: 0px;
     padding: 10px 0px 10px 0px;
-    color: #333;
+    color: rgb(233, 233, 233);
     font-size: 16px;
 }
 
